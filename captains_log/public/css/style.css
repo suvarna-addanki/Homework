@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(185, 38, 153);
+    color: white;
+
+}
+
+h1 {
+    font-size: 36px;
+    letter-spacing: 3px;
+    font-family:sans-serif;
+   
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(34, 0, 255);
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.button-link {
+    color: rgb(0, 0, 0);
+}
+
+.button-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+#top {
+    width: 50vw;
+    height: 25px;
+    background-color: black;
+    font-size: 24px;
+    padding: 5px;
+}
+
+#creating {
+    font-size: 20px;
+    background-color: black;
+    width: 190px;
+    height: 22px;
+    text-align: center;
+}
+
+.edit-button {
+    background-color: gray;
+    font-weight: bold;
+}
+
+.edit-button:hover {
+    background-color: black;
+}
+
+#delete-color {
+    background-color: orange;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+#delete-color:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.label-color {
+    color: orange;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.back-link {
+    background-color: black;
+    color: yellow;
+    font-size: 20px;
+}
+
+
+  
