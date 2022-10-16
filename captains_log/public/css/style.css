@@ -1,8 +1,22 @@
 body {
-    background-color: rgb(185, 38, 153);
-    color: white;
+    /* background-color: rgb(185, 38, 153);
+    color: white; */
+    background-image: url("books.png");
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    /* min-height: 100%; */
+    /* max-height:fit-content; */
+    /* max-width: fit-content;
+    max-height: fit-content; */
+    /* display:flex;
+    flex-direction: column;
+    min-height: 100%; */
 
 }
+
 
 h1 {
     font-size: 36px;
